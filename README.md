@@ -1,4 +1,5 @@
 # News Scrapper
+This repository is still in progress of developing and refining
 
 ## Description
 This is a News Scrapper to scrap data and text from online newspapers, news sites or any specific websites written in JS and HTML.
