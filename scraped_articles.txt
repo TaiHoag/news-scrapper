@@ -7418,4 +7418,5 @@ While ticket purchases now have digital options from state lotteries and third-p
 He said the state has roughly $5 billion of in-person lottery sales yearly across 10,000 retailers and about $1 billion in online sales.
 However, the Pennsylvania Lottery's app has boosted brick-and-mortar sales by "reaching a new audience," Svitko said.
 The latest Powerball jackpot comes roughly one week after a single ticket purchased in New Jersey won Mega Millions' fifth-largest grand prize of $1.128 billion.
+>>>>>>> 7442b19832cad1558b06632fbb3690d360bcbcc5
 That grand prize is back down to $67 million and the chances of winning are roughly 1 in 302 million.
